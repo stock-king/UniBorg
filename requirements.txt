@@ -1,2 +1,2 @@
-telethon
+telethon v1.10.3
 -r ./requirements-stdborg.txt
